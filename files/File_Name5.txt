@@ -1,0 +1,11 @@
+Dijkstra-Scholten program:
+node number: 5
+node id: 5
+status: idle
+parent channel: -1
+parent id: (unknown)
+From Active to Idle
+channel partner nodes: 0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14
+deficit: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+send-acknowledgment buffer sizes: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Local Clock Value: Mon Dec 08 16:09:35 PST 2014
